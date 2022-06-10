@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="8" time="83.552664">
+    <testcase classname="Window_Alert_Frame  module" name="201_Window_tab" time="9.49161">
+        <system-out><![CDATA[Given Check NewTab..........................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Window_Alert_Frame  module" name="202_Window_NewWindow" time="8.555448">
+        <system-out><![CDATA[Given Check NewWindow.......................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Window_Alert_Frame  module" name="203_Window_NewWindowMsg" time="9.915434">
+        <system-out><![CDATA[Given Check NewWindow Message...............................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Window_Alert_Frame  module" name="204_Alerts_Sample Alert" time="8.293212">
+        <system-out><![CDATA[Given Check New Alert.......................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Window_Alert_Frame  module" name="205_Alerts_Alert Appear after 5 sec" time="16.589078">
+        <system-out><![CDATA[Given Check Alert After sec.................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Window_Alert_Frame  module" name="206_Alerts_Confirm Alert pop up" time="8.418274">
+        <system-out><![CDATA[Given Check Confirm Alert...................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Window_Alert_Frame  module" name="207_Alerts_Msg on Alert" time="8.413712">
+        <system-out><![CDATA[Given Check Msg send on Alert pop up........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Window_Alert_Frame  module" name="208_Model_Dialog" time="13.875896">
+        <system-out><![CDATA[Given Check Model_Dialog....................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
