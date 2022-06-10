@@ -8,7 +8,11 @@ public class DemoTest {
 		
 		String str2 =str.replaceAll("[a-z]", "");
 		
+		String str3 =str.replaceAll("[0-9]", "");
+		
 		System.out.println(str2);
+		
+		System.out.println(str3);
 	}
 
 }
